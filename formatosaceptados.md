@@ -1,4 +1,4 @@
-Documentos soportados 
+## Documentos soportados 
 
 Por razones de seguridad, no todos los documentos pueden ser subidos a la plataforma. Para complementar tus perfiles y publicaciones, esta
 es la lista de los documentos aceptados:
